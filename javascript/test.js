@@ -1,1 +1,1 @@
-log.console("pragyan")
+console.log("pragyan")
