@@ -22,3 +22,17 @@ let someNumber =33
 
 let stringNumber = String(someNumber)
 console.log(stringNumber)
+
+//------------------------------operations-------------------------------
+
+
+let n1=4
+let n2=5 
+console.log(n1+n2)
+console.log(n1+"n2")
+console.log(n1+"1")
+
+
+let num = 6
+num++
+console.log(num)
